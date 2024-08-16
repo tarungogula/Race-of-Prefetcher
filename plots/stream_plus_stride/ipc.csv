@@ -1,0 +1,6 @@
+Traces,stream_plus_stride_prefetcher_deg2_dist3,stream_plus_stride_prefetcher_deg2_dist4,stream_plus_stride_prefetcher_deg3_dist3,stream_plus_stride_prefetcher_deg3_dist4,stream_plus_stride_prefetcher_deg4_dist3,stream_plus_stride_prefetcher_deg4_dist4,stream_plus_stride_prefetcher_deg5_dist3,stream_plus_stride_prefetcher_deg5_dist4,stream_plus_stride_prefetcher_deg6_dist3,stream_plus_stride_prefetcher_deg6_dist4
+602.gcc_s-1850B.champsimtrace.xz.txt,0.313858,0.315351,0.313158,0.311373,0.310949,0.310609,0.308485,0.308523,0.307835,0.307693
+603.bwaves_s-1740B.champsimtrace.xz.txt,0.348562,0.348585,0.348134,0.347006,0.346958,0.34657,0.345836,0.345214,0.345274,0.344214
+sssp-3.trace.gz.txt,0.271164,0.271412,0.266763,0.264744,0.261339,0.260731,0.255672,0.254552,0.251817,0.249866
+bc-0.trace.gz.txt,0.127788,0.127891,0.124355,0.123856,0.120836,0.120546,0.11728,0.116635,0.114155,0.112899
+619.lbm_s-2677B.champsimtrace.xz.txt,0.210058,0.210123,0.209686,0.209388,0.209494,0.208948,0.209152,0.208266,0.208963,0.208024

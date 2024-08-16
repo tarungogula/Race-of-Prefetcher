@@ -1,0 +1,6 @@
+Traces,AccuracyInitial,Accuracy
+602.gcc_s-1850B.champsimtrace,2.54586592320795,2.55
+603.bwaves_s-1740B.champsimtrace,2.59072449525241,2.59
+sssp-3.trace,10.0378737300386,10.04
+bc-0.trace,16.8672777428455,16.87
+619.lbm_s-2677B.champsimtrace,4.20495663487604,4.2
